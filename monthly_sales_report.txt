@@ -1,0 +1,14 @@
+Monthly Sales Report
+Period: Mon Apr 01 18:59:55 IST 2024 to Tue Apr 30 18:59:55 IST 2024
+choclate: Rs.1000.0, Profit: Rs.300.0
+choclate: Rs.1000.0, Profit: Rs.300.0
+ice: Rs.500.0, Profit: Rs.100.0
+fruits: Rs.200.0, Profit: Rs.100.0
+cookies: Rs.250.0, Profit: Rs.50.0
+lays: Rs.100.0, Profit: Rs.30.0
+lays: Rs.100.0, Profit: Rs.30.0
+soap: Rs.100.0, Profit: Rs.30.0
+olive oil : Rs.600.0, Profit: Rs.200.0
+shampoo: Rs.200.0, Profit: Rs.50.0
+soaps: Rs.100.0, Profit: Rs.30.0
+Total Sales: Rs.4150.0, Total Profit: Rs.1220.0
